@@ -1,0 +1,22 @@
+{
+  "name": "JXLoginModule",
+  "version": "0.1.0",
+  "summary": "A short description of JXLoginModule.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Coder_liujixin@163.com/JXLoginModule",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Coder_liujixin@163.com": "coder_liujixin@163.com"
+  },
+  "source": {
+    "git": "https://github.com/Coder_liujixin@163.com/JXLoginModule.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "JXLoginModule/Classes/**/*"
+}

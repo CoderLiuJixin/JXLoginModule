@@ -1,0 +1,16 @@
+PODS:
+  - JXLoginModule (0.1.0)
+
+DEPENDENCIES:
+  - JXLoginModule (from `../`)
+
+EXTERNAL SOURCES:
+  JXLoginModule:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  JXLoginModule: 21cda812d682f8700058b34bc2f5e31f02e12d19
+
+PODFILE CHECKSUM: 99632f4ea8599d75655ee69a4ca6024ee8123e5b
+
+COCOAPODS: 1.11.3

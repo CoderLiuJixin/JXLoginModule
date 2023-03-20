@@ -23,7 +23,7 @@ pod 'JXLoginModule'
 
 ## Author
 
-Coder_liujixin@163.com, coder_liujixin@163.com
+LiuJixin, coder_liujixin@163.com
 
 ## License
 
